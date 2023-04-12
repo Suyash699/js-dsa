@@ -1,0 +1,32 @@
+How problem solving should be done:
+  > Understanding the problem:
+    1. Can you restate the problem in your own words
+    2. What inputs go into the problem
+    3. What kind of outputs should come from the solution
+    4. Can the outputs be determined from the inputs 
+    5. How should you label the important pieces of data that are part of the problem
+    
+  > Explore concrete Examples: 
+    1. Start with simple examples
+    2. Progress to more complex problems
+    3. Explore examples with empty inputs 
+    4. Explore examples with invalid inputs
+    
+  > Break it down: 
+    1. Break down the problem into how it is to be solved and what is to be done in smaller parts 
+    2. Write the approach and logic as comments before writing the code, so that even if the problem is not completed on time, your approach is clear to the interviewer
+  
+  > Solve/Simplify
+    1. Solve the problems you can first.
+    2. Find the core difficulty in the difficult parts 
+    3. Temporarily ignore the difficulty
+    4. Write simplified solution
+    5. Incorporate the difficulty back in
+    
+  > Look back and refactor
+    1. Can you check the result
+    2. Can you derive result differently
+    3. Can you use the result or method for some other problem
+    4. Can you improve the performance of your solution
+    5. Can you think of other ways to refactor
+    6. How have other people solveed this problem
