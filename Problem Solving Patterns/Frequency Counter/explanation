@@ -1,0 +1,5 @@
+Frequency counter uses object and set to collect values or frequency of values. 
+It is useful in the algorithms where there are multiple pieces of data and you have to compare to see if they are anagram
+Basically any time values are compared to each other with 2 or more inputs and frequencies of the value to occur 
+
+Time Complexity of freqcounter = O(n)
