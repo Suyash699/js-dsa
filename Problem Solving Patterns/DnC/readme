@@ -1,0 +1,1 @@
+This pattern involves dividing a data set into smaller chunks of data and then repeating the same process with the smaller subsets of the data. This process can tremendously decrease time complexity.
